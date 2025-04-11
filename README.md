@@ -11,3 +11,5 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Tested: whisper.cpp/build/bin/main (deprecated, use whisper-cli)
 - Command: ~/Ai/Assisty/whisper.cpp/build/bin/whisper-cli -m ~/Ai/Assisty/whisper.cpp/models/ggml-base.bin -f <audio.wav>
 - Note: CPU-only, CUDA optional
+
+- Confirmed STT transcription: [your transcription here]
