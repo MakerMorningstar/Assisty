@@ -17,3 +17,5 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Set Git credential.helper to store for passwordless push
 
 - Fixed Piper with espeak-ng data at /usr/lib/x86_64-linux-gnu/espeak-ng-data/
+
+- Wake word: 'Oh My God'
