@@ -19,3 +19,5 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Fixed Piper with espeak-ng data at /usr/lib/x86_64-linux-gnu/espeak-ng-data/
 
 - Wake word: 'Oh My God'
+
+- Added wake response 'Yes?' to signal command recording
