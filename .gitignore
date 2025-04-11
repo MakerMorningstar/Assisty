@@ -1,0 +1,9 @@
+assisty.env/
+*.wav
+*.bin
+*.onnx
+*.onnx.json
+models/
+data/
+__pycache__/
+*.pyc
