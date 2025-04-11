@@ -9,3 +9,5 @@ __pycache__/
 *.pyc
 whisper.cpp/models/
 whisper.cpp/build/
+piper_models/
+piper/build/
