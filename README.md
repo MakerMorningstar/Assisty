@@ -13,3 +13,5 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Note: CPU-only, CUDA optional
 
 - Confirmed STT transcription: [your transcription here]
+
+- Set Git credential.helper to store for passwordless push
