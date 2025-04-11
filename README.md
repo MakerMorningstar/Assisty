@@ -25,3 +25,6 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Uses  for Piper
 
 - Wake word: 'Hey God', responses: 'Yes Master', 'Bye Mother Fucker'
+
+- Optimized: Reuses running Ollama on port 11434
+-  uses Card 1, Device 0
