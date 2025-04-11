@@ -23,3 +23,5 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Added wake response 'Yes?' to signal command recording
 
 - Uses  for Piper
+
+- Wake word: 'Hey God', responses: 'Yes Master', 'Bye Mother Fucker'
