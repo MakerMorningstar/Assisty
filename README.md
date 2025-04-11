@@ -21,3 +21,5 @@ A local AI assistant with conversational, coding, web search, system interaction
 - Wake word: 'Oh My God'
 
 - Added wake response 'Yes?' to signal command recording
+
+- Uses  for Piper
