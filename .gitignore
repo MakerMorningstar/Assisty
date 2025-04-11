@@ -7,3 +7,5 @@ models/
 data/
 __pycache__/
 *.pyc
+whisper.cpp/models/
+whisper.cpp/build/
